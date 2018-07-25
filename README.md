@@ -1,2 +1,3 @@
-# guia-certificacao-php7
-Material de estudo para a certificação do PHP 7
+# Study Guide to ZCE PHP7 certificatio 
+
+This repository provides prarical examples and comments about the maijors topica in the ZCE PHP7 certification exam
